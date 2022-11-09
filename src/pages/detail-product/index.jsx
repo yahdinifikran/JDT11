@@ -29,7 +29,7 @@ const DetailProduct = () => {
   
   return (
     //tanpa menggunakan array
-    <> 
+    <> <div
        <div classnName="text-center">Detail Product</div>
        <p>Nama Produk: {product.name}</p>
        <p>Harga: {product.price}</p>
